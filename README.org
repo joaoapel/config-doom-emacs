@@ -1,0 +1,13 @@
+* My config files for Doom Emacs
+
+Configuration files for Org and Org Babel in Doom Emacs. 
+
+- This includes syntax highlight for Clojure in HTML and PDF exports.
+
+- After loading the Clojure window REPL opens in the right side of the screen
+
+- Fira Code and Modus Vivendi are needed
+
+Enjoy 🙃
+
+
